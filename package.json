@@ -4,7 +4,7 @@
   "description": "Browser based game",
   "main": "index.js",
   "scripts": {
-    "start":"http-server src",
+    "start": "live-server src",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/smileperez/ajs-1A#readme",
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "live-server": "^1.2.2"
   }
 }
